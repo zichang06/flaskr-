@@ -1,6 +1,3 @@
----
-title: flask learning
----
 # flask learning
 ## 前言
 系分大佬队友说在学习flask，于是我也着手学习flask的内容。
